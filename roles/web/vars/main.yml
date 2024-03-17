@@ -1,2 +1,7 @@
 ---
 # vars file for web
+CATALOGUE_HOST: catalogue.padmasrikanth.shop
+USER_HOST: user.padmasrikanth.shop
+SHIPPING_HOST: shipping.padmasrikanth.shop
+CART_HOST: cart.padmasrikanth.shop
+PAYMENT_HOST: payment.padmasrikanth.shop
